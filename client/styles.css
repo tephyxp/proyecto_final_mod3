@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@700&family=Inter:wght@400;500;600;700&family=Libre+Baskerville&family=Orelega+One&display=swap');
+
+html{
+    font-family: 'Orelega One',sans-serif;
+}
+
+body{
+    background-color: #8338EC;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.center-content{
+    text-align:center;
+}
+
+h1{
+    font-size: 4em ;
+    color:white;
+    letter-spacing: 2px;
+    
+}
+
+input{
+    border-color: aliceblue;
+    border-radius: 50px;
+    height: 2em;
+    text-align: center;
+}
+
+#app{
+    padding-top: 2em;
+}
